@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For DigitalButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DigitalButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+isPressed	KEYWORD2
+isClicked	KEYWORD2
+isLongPressed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
